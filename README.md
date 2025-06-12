@@ -97,10 +97,6 @@ _<sup>On the sidebar: flicking the notification</sup>_
 ![image](https://github.com/user-attachments/assets/02983b9b-79ba-4c25-8717-90bef2357ae5)
 _<sup>You can also drag and drop windows across workspaces</sup>_
 
-### Power to weebs
-![image](https://github.com/user-attachments/assets/bbb332ec-962a-4e88-a95b-486d0bd8ce76)
-_<sup>Get yande.re and konachan images from sidebar</sup>_
-
 ## Unsupported stuff
 
 - The pics are here mainly for your viewing pleasure
